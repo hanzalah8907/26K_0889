@@ -8,4 +8,10 @@
 - PYTHON
 - C++ PROGRAMMING
 - GITHUB
-  
+ ## HOBBIES & extracurriculars
+ 1. Programming
+    - [x] Learn C Programming
+    - [x] Learn Github
+    - [ ] learn C++
+    - [ ] learn python
+ 2. Reading
